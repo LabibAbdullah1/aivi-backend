@@ -28,7 +28,7 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di mesin lokal kamu:
 Lakukan fork repositori ini ke akun GitHub kamu, lalu clone ke lokal:
 
 ```bash
-git clone [https://github.com/USERNAME_KAMU/NAMA_REPOSITORY_KAMU.git](https://github.com/labibabdullah1/aivi-backend.git)
+git clone https://github.com/LabibAbdullah1/aivi-backend.git
 
 cd aivi-backend
 ```
